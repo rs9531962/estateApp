@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/estateexperts/static/css/main.829d425d.css",
-    "main.js": "/estateexperts/static/js/main.d9b78c62.js",
-    "static/media/logo.png": "/estateexperts/static/media/logo.db113e07abfa35f3f836.png",
-    "index.html": "/estateexperts/index.html",
-    "main.829d425d.css.map": "/estateexperts/static/css/main.829d425d.css.map",
-    "main.d9b78c62.js.map": "/estateexperts/static/js/main.d9b78c62.js.map"
+    "main.css": "/estateApp/static/css/main.829d425d.css",
+    "main.js": "/estateApp/static/js/main.cfe76dc2.js",
+    "static/media/logo.png": "/estateApp/static/media/logo.db113e07abfa35f3f836.png",
+    "index.html": "/estateApp/index.html",
+    "main.829d425d.css.map": "/estateApp/static/css/main.829d425d.css.map",
+    "main.cfe76dc2.js.map": "/estateApp/static/js/main.cfe76dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.829d425d.css",
-    "static/js/main.d9b78c62.js"
+    "static/js/main.cfe76dc2.js"
   ]
 }
